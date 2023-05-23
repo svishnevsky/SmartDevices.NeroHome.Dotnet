@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartDevices.NeroHome.App.Console", "src\SmartDevices.NeroHome.App.Console\SmartDevices.NeroHome.App.Console.csproj", "{C666C107-6232-49F8-81CA-3848C9A748A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartDevices.NeroHome.Client", "src\SmartDevices.NeroHome.Client\SmartDevices.NeroHome.Client.csproj", "{866F505F-F85A-4AC7-81C0-A247E03BDB4F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8402F041-BA18-49FC-B0A1-13F26B98CC37}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C666C107-6232-49F8-81CA-3848C9A748A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C666C107-6232-49F8-81CA-3848C9A748A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C666C107-6232-49F8-81CA-3848C9A748A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C666C107-6232-49F8-81CA-3848C9A748A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866F505F-F85A-4AC7-81C0-A247E03BDB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866F505F-F85A-4AC7-81C0-A247E03BDB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866F505F-F85A-4AC7-81C0-A247E03BDB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866F505F-F85A-4AC7-81C0-A247E03BDB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82338D96-F15A-4A14-919D-B9D1883E5B3A}
+	EndGlobalSection
+EndGlobal
